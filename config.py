@@ -38,5 +38,5 @@ class Config(object):
     # watermark file
     DEF_WATER_MARK_FILE = ""
     # Database url
-    DB_URI = os.environ.get("DATABASE_URL", "")
+    DB_URI = "mongodb+srv://720p:hevc@cluster0.fw3dwgb.mongodb.net/?retryWrites=true&w=majority"
     
