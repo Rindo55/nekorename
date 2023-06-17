@@ -4,7 +4,7 @@ class Config(object):
     # get a token from @BotFather
     TG_BOT_TOKEN = "6284581524:AAEHd9Idbj2sk5bARTkXX1CS_dGOXOgXuy4"
     # The Telegram API things
-    APP_ID = 6
+    APP_ID = 3845818
     API_HASH = "95937bcf6bc0938f263fc7ad96959c6d"
     # Update channel for Force Subscribe
     UPDATE_CHANNEL = "Neko_Bots"
